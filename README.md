@@ -1,16 +1,16 @@
-# conversor_moedas
+# Conversor de Moedas
 
-A new Flutter project.
+Projeto em Flutter utilizando a API do [HG Finance](https://hgbrasil.com/status/finance) para realizar a cotação das moedas em relação ao Real para Dólar (USD) e Euro (EUR).
 
-## Getting Started
+![](giphy_conversor.gif)
 
-This project is a starting point for a Flutter application.
+## Clonar repositório
 
-A few resources to get you started if this is your first Flutter project:
+`` git clone https://github.com/thiagosr135/conversor_moedas.git ``
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Adquirir a chave da API
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+`` https://console.hgbrasil.com/keys/new_key_plan ``
+
+## Autor
+* **Thiago de Souza Ribeiro** - [thiagosr135](https://github.com/thiagosr135)
